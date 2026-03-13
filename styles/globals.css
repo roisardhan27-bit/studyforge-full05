@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Optional: beberapa style tambahan custom */
+body {
+  background-color: #f5f5f5; /* Light gray background */
+  font-family: 'Inter', sans-serif; /* Friendly modern font */
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
